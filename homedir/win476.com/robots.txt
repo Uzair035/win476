@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Crawl-delay:3
+Sitemap:https://win476.com/sitemap.xml
+Sitemap:https://win476.com/sitemapa.xml
+Sitemap:https://win476.com/sitemapb.xml
+Sitemap:https://win476.com/sitemapc.xml
+Sitemap:https://win476.com/sitemapd.xml
+Sitemap:https://win476.com/sitemape.xml
